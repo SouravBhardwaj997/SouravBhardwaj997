@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Jyb2h1anFjam5kY3A3a2t5a3F4ZGZ6bXl4bDkzMTA5ZzZ6NnQzZiZlcD4/g9582DNuQppxC/giphy.gif" width="320" alt="Anime Coder" />
 </p>
 
-![Animated header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FF6F61&center=true&vCenter=true&width=535&lines=Welcome+to+my+GitHub+Profile!;I+%E2%9D%A4%EF%B8%8F+Web+Development;Let's+build+something+amazing+together!)
+![Animated header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FF6F61&center=false&vCenter=true&width=1200&lines=Welcome+to+my+GitHub+Profile!;I+%E2%9D%A4%EF%B8%8F+Web+Development;Let's+build+something+amazing+together!)
 
 ## 🚀 About Me
 

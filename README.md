@@ -21,10 +21,6 @@
   <img src="https://skillicons.dev/icons?i=js,python,java,cpp,react,nodejs,express,django,mongodb,mysql,postgres,git,docker,vscode,postman" />
 </p>
 
-## 🌀 Animated Contribution Snake
-
-![Contribution Snake](https://github.com/SouravBhardwaj997/SouravBhardwaj997/blob/output/github-contribution-grid-snake.svg)
-
 ## 📈 GitHub Stats
 
 <p align="center">

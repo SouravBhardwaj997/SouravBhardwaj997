@@ -34,11 +34,6 @@
   <img src="https://streak-stats.demolab.com/?user=SouravBhardwaj997&theme=radical" alt="GitHub Streak" />
 </p>
 
-## 📂 Featured Repositories
-
-- [Project 1](https://github.com/SouravBhardwaj997/Project1): Project description.
-- [Project 2](https://github.com/SouravBhardwaj997/Project2): Project description.
-- [Project 3](https://github.com/SouravBhardwaj997/Project3): Project description.
 
 ---
 

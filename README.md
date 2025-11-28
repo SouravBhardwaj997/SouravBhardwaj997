@@ -11,14 +11,13 @@
 - 🔭 I’m currently working on exciting personal projects.
 - 🌱 I’m always learning new technologies and frameworks.
 - 💬 Ask me about anything related to web development, programming, or tech in general.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/souravbhardwaj997/) | [Twitter](https://twitter.com/SouravBhardwaj9)
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/souravbhardwaj997/) | [Mail](mailto:souravbhardwaj997@gmail.com)
 - ⚡ Fun fact: I love exploring new places and playing chess.
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,react,nodejs,express,django,mongodb,mysql,postgres,git,docker,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nodejs,express,django,mongodb,mysql,postgres,git,docker,vscode,postman" />
 </p>
 
 ## 📈 GitHub Stats

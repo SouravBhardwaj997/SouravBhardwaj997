@@ -1,39 +1,73 @@
-# Hi there, I'm Sourav Bhardwaj 👋
+# Hi, I'm Sourav Bhardwaj 👋  
+### Software Engineer | Next.js • TypeScript • Node.js
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Jyb2h1anFjam5kY3A3a2t5a3F4ZGZ6bXl4bDkzMTA5ZzZ6NnQzZiZlcD4/g9582DNuQppxC/giphy.gif" width="320" alt="Anime Coder" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320" alt="Coding animation" />
 </p>
 
-![Animated header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FF6F61&center=false&vCenter=true&width=1200&lines=Welcome+to+my+GitHub+Profile!;I+%E2%9D%A4%EF%B8%8F+Web+Development;Let's+build+something+amazing+together!)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen" />
+  <img src="https://img.shields.io/badge/Role-Software%20Engineer-blue" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-orange" />
+  <img src="https://komarev.com/ghpvc/?username=souravbhardwaj997&color=blue&style=flat-square" />
+</p>
+
+---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on exciting personal projects.
-- 🌱 I’m always learning new technologies and frameworks.
-- 💬 Ask me about anything related to web development, programming, or tech in general.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/souravbhardwaj997/) | [Mail](mailto:souravbhardwaj997@gmail.com)
-- ⚡ Fun fact: I love exploring new places and playing chess.
+Hey! I'm **Sourav Bhardwaj**, a passionate **Software Engineer** with **6 months of real-world experience** building web applications using **Next.js, TypeScript, and Strapi**.
+
+I love turning ideas into user-friendly products, improving performance, and learning new technologies every day. Currently, I'm focused on strengthening my backend development skills and writing clean, scalable code.
+
+- 🌱 Learning and improving daily  
+- 💻 Enjoy frontend & backend development  
+- 🔍 Curious about APIs and scalability  
+- 🟢 Actively seeking job opportunities  
+
+---
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nodejs,express,django,mongodb,mysql,postgres,git,docker,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,redux,vscode,postman,git" />
 </p>
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SouravBhardwaj997&show_icons=true&theme=radical" alt="Sourav's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravBhardwaj997&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SouravBhardwaj997&theme=radical" alt="GitHub Streak" />
-</p>
-
 
 ---
 
-_Thanks for visiting my profile! ⭐️ If you like my work, consider following me._
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=souravbhardwaj997&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravbhardwaj997&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=souravbhardwaj997&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=souravbhardwaj997&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📬 Let’s Connect
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/sourav-bhardwaj-67bb582b3/  
+- 📧 Email: souravbhardwaj997@gmail.com  
+
+---
+
+### ⭐ If you like my work
+Give a star ⭐ or follow — it helps and motivates a lot!
+
+Thanks for visiting — let’s build something amazing together 🚀

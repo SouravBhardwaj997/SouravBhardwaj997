@@ -34,20 +34,15 @@ I love turning ideas into user-friendly products, improving performance, and lea
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souravbhardwaj997&show_icons=true&theme=tokyonight&cache_seconds=1800" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravbhardwaj997&layout=compact&theme=tokyonight&cache_seconds=1800" height="160" />
-</p>
-
----
-
-## 📈 Activity Overview (Fallback)
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souravbhardwaj997&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=souravbhardwaj997&theme=github_dark" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=souravbhardwaj997&theme=github_dark" height="160" />
 </p>
 
 ---
@@ -55,7 +50,7 @@ I love turning ideas into user-friendly products, improving performance, and lea
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=souravbhardwaj997&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=souravbhardwaj997&theme=dark&hide_border=true" />
 </p>
 
 ---

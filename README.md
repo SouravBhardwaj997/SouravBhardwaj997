@@ -63,6 +63,14 @@ I love turning ideas into user-friendly products, improving performance, and lea
 
 ---
 
+## 💡 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&category=programming&random=true" />
+</p>
+
+---
+
 ## 📬 Let’s Connect
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/sourav-bhardwaj-67bb582b3/  
